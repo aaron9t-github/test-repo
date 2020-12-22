@@ -1,6 +1,6 @@
 # Introduction
 
-This is a repository created by *J*
+This is a repository created by *Jessie*
 
 ## Usage
 
